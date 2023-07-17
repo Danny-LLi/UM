@@ -1,4 +1,5 @@
-# University Management Web Project
+# UM
+University Management Web Project
 
 This repository contains the source code for a web project focused on university management, specifically student project booking. The project utilizes Bootstrap 5.2.2 along with HTML, CSS, and JavaScript for the initial building.
 
